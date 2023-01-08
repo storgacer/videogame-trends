@@ -192,8 +192,8 @@ the model is and how strong the correlation between the two variables,
 user and critic scores, really is. And even though the P-value is quite
 low, which signifies a great significance for the results obtained, the
 R-squared value is what truly tells the whole story. R-squared values
-fluctuate from 1 to -1. The closer the value is to zero, the weaker the
-correlation is. The further away from zero in either direction the
+fluctuate from 0 to 1. The closer the value is to zero, the weaker the
+correlation is. The further away from zero the
 R-squared value is, the stronger the correlation. Unfortunately, the
 correlation in this case was very weak, which meant that critic scores
 DO NOT explain what user scores will be. As such, this result aligns
